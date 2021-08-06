@@ -2,5 +2,4 @@ version: '3'
 services:
   win-base:
     build: .
-    container-name: winbase
-    
+
